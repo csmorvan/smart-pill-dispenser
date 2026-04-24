@@ -37,6 +37,7 @@ Arduino-based smart pill dispenser designed to improve medication adherence thro
 ---
 
 ## Future Improvements
+- Address the current limitation where the servo does not consistently rotate the pill carousel by implementing a more secure mechanical linkage (e.g., rigid hub, gear system, or higher-torque servo)  
 - Add real-time clock (RTC) for scheduled dispensing  
 - Improve mechanical coupling for precise compartment indexing  
 - Refine the 3D-printed design for better alignment and durability  
